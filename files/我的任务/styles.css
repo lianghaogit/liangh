@@ -7047,26 +7047,3 @@
   width:98px;
   word-wrap:break-word;
 }
-#u449 {
-  position:absolute;
-  left:201px;
-  top:124px;
-  width:155px;
-  height:25px;
-}
-#u449_input {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:155px;
-  height:25px;
-  font-family:'ArialMT', 'Arial';
-  font-weight:400;
-  font-style:normal;
-  font-size:13px;
-  text-decoration:none;
-  color:#000000;
-}
-#u449_input:disabled {
-  color:grayText;
-}
